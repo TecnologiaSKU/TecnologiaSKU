@@ -153,12 +153,6 @@ nav a{
     font-family: 'Bebas Neue', cursive;
 }
 
-@media only screen and (max-width: 1000px) {
-  .contenido-presentacion {
-      top: 5em;
-  }
-}
-
 .contenido-presentacion h1{
     font-family: 'Bebas Neue', cursive;
     color: white;
