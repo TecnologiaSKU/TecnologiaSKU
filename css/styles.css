@@ -501,7 +501,7 @@ nav a{
     justify-content: space-between; 
     grid-column-gap: 0.5rem;
     grid-row-gap: 0.5rem;
-    margin-bottom: 2rem;
+    margin-bottom: 3rem;
 }
 
 .icono{
@@ -620,7 +620,7 @@ nav a{
     background-color: white;
     padding: 4rem 0;
     transition: all .3s ease;
-    height: 70vh;
+    height: 65vh;
     width: 70vw;
 }
 
